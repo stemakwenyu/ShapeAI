@@ -20,7 +20,7 @@ nav{
     top: 0;
     left: 0;
     width: 100%;
-    background-color: whitesmoke;
+    background-color: mediumslateblue;
     box-shadow: 5px 10px 30px rgba(0,0,0,0.02);
     z-index: 1;
 }
@@ -41,7 +41,7 @@ nav{
     font-size: 0.8em;
     text-transform: uppercase;
     font-weight: 500;
-    letter-spacing: px;
+    letter-spacing: 1px;
     color: grey;
 }
 a{

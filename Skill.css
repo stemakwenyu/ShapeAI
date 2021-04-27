@@ -1,0 +1,75 @@
+*{
+    background-color: whitesmoke;
+    font-size: 20px;
+    font-family: 'New Tegomin', serif;
+    font-weight: 500;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.menu{
+    list-style: none;
+    display: flex;
+}
+.menu li{
+    height: 40px;
+    line-height: 43px;
+    margin: 3px;
+    padding: 0px 22px;
+    display: flex;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1px;
+    color: darkblue;
+}
+a{
+    text-decoration: none;
+}
+.hey{
+    color: blue;
+    font-size: 0.9em;
+    font-weight: 500;
+    border-bottom: 2px solid blue;
+}
+
+#main{
+    width: 100%;
+    height: 20vh;
+    position: relative;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: mediumslateblue;
+    box-shadow: 5px 10px 30px rgba(0,0,0,0.02);
+    z-index: 1;
+}
+.logo img{
+    height: 45px;
+}
+.More h1{
+    text-transform: uppercase;
+    color: darkblue;
+    height: 40px;
+    line-height: 43px;
+    margin: 3px;
+    padding: 0px 22px;
+    font-size: 2em;
+    text-transform: uppercase;
+    letter-spacing: px;
+    
+}
+.More p{
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
