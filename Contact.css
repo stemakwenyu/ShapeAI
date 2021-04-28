@@ -56,15 +56,33 @@ nav{
 .logo img{
     height: 45px;
 }
-h4{
-    text-align: center;
+.contact h1{
+    
     color: darkblue;
     margin-left: 30px;
     font-weight: 700;
     font-size: 2em;
 }
-p{
-    text-align: center;
+.contact p{
+    
     margin-left: 20px;
     margin-right: 20px;
+}
+.social h2{
+    
+    color: darkblue;
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 2em;
+}
+.social p{
+    
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.social img{
+    width: 7%;
+    height: 3%;
+    padding: 30px;
+    margin-left: 30px;
 }
